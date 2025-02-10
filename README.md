@@ -16,3 +16,7 @@ pela DIO.
 - Switch
 - Estruturas de repetição
 - Arrays
+
+## Stack Utilizada
+- Java 8
+- JDK 23.0.2
